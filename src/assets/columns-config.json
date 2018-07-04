@@ -1,0 +1,62 @@
+[
+	{
+		"column_index": 0,
+		"fieldname": "title",
+		"title": "Nombre",
+		"type": null,
+		"listitems": [
+			{
+				"key": 0,
+				"value": ""
+			}
+		],
+		"is_hidden": false,
+		"sticky": true,
+		"stickyEnd": false,
+		"type_data": "int",
+		"mask": "",
+		"allow_sort": false,
+		"readonly": false
+	},
+	{
+		"column_index": 1,
+		"fieldname": "value",
+		"title": "Porcentaje",
+		"type": "calendar",
+		"is_hidden": false,
+		"sticky": false,
+		"stickyEnd": false,
+		"type_data": "date",
+		"mask": "P0",
+		"allow_sort": true,
+		"readonly": false
+	},
+	{
+		"column_index": 2,
+		"fieldname": "col1",
+		"title": "col1",
+		"type": "checkbox",
+		"is_hidden": false,
+		"sticky": false,
+		"stickyEnd": false,
+		"type_data": "bool",
+		"mask": "n2",
+		"allow_copy": true,
+		"allow_paste": true,
+		"allow_sort": true,
+		"readonly": false
+	},
+	{
+		"column_index": 2,
+		"fieldname": "col2",
+		"title": "col2",
+		"type": "checkbox",
+		"is_hidden": false,
+		"sticky": false,
+		"stickyEnd": false,
+		"type_data": "bool",
+		"mask": "n2",
+		"allow_sort": false,
+		"readonly": false
+	}
+]

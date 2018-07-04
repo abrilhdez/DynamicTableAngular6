@@ -1,0 +1,19 @@
+{
+  "table_configuration": {
+    "filter_activate": true,
+    "export": {
+      "enabled": true,
+      "formats": ".csv, .xlsx"
+    },
+    "frezze_row": 1,
+    "frezze_column": 0,
+    "allow_select_all_rows": true,
+    "can_edit": true,
+    "can_delete": true,
+    "can_add": true,
+    "pagination": {
+      "enabled": false,
+      "items_per_page": null
+    }
+  }
+}

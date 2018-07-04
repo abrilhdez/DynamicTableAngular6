@@ -1,0 +1,47 @@
+{
+  "columns": [
+    {
+      "column_index": 0,
+      "title": "ID",
+      "fieldname": "id_data",
+      "type": null,
+      "listitems": [
+        {
+          "key": 0,
+          "value": ""
+        }
+      ],
+      "is_hidden": false,
+      "type_data": "int",
+      "mask": "",
+      "allow_sort": true,
+      "readonly": false
+    },
+    {
+      "column_index": 1,
+      "fieldname": "dt_fecha",
+      "caption": "FECHA",
+      "type": "calendar",
+      "is_hidden": false,
+      "type_data": "date",
+      "mask": "aaaammdd",
+      "allow_copy": true,
+      "allow_paste": true,
+      "allow_sort": true,
+      "allow_move": true,
+      "readonly": false
+    },
+    {
+      "column_index": 2,
+      "caption": "VALIDADO",
+      "type": "checkbox",
+      "is_hidden": false,
+      "type_data": "bool",
+      "mask": "",
+      "allow_copy": true,
+      "allow_paste": true,
+      "allow_sort": true,
+      "readonly": false
+    }
+  ]
+}
